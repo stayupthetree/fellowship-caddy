@@ -1,0 +1,22 @@
+github.com/caddyserver/caddy/v2=latest
+
+# Official and community plugins
+github.com/caddy-dns/cloudflare
+github.com/WeidiDeng/caddy-cloudflare-ip
+github.com/caddyserver/ntlm-transport
+github.com/caddyserver/replace-response
+github.com/greenpau/caddy-security
+github.com/caddyserver/transform-encoder
+github.com/caddyserver/nginx-adapter
+github.com/mholt/caddy-ratelimit
+github.com/lucaslorentz/caddy-docker-proxy/v2
+github.com/invzhi/caddy-docker-upstreams
+github.com/caddyserver/caddy/v2/modules/caddy-dynamicdns
+github.com/sabliersystems/caddy-sablier
+github.com/max0ne/crowdsec-caddy-bouncer
+github.com/greenpau/caddy-admin-ui
+github.com/gamalan/caddy-tlsredis
+github.com/max0ne/caddy-maxmind-geolocation
+github.com/corazawaf/caddy-coraza
+github.com/caddyserver/caddy/v2/modules/caddy-websockify
+github.com/caddyserver/caddy/v2/modules/l4

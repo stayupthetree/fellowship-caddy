@@ -14,9 +14,9 @@ RUN xcaddy build \
     --with github.com/invzhi/caddy-docker-upstreams \
     --with github.com/mholt/caddy-dynamicdns \
     --with github.com/hslatman/caddy-crowdsec-bouncer \
-    --with github.com/greenpau/caddy-admin-ui \
-    --with github.com/gamalan/caddy-tlsredis \
-    --with github.com/max0ne/caddy-maxmind-geolocation 
+    --with github.com/gsmlg-dev/caddy-admin-ui \
+    --with github.com/pberkel/caddy-storage-redis \
+    --with github.com/porech/caddy-maxmind-geolocation
 
 
 FROM caddy:${CADDY_VERSION}-alpine
